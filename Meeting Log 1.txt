@@ -1,0 +1,12 @@
+Meeting 1:
+9/22/2019, 6:00 - 
+
+Members present: Aaron Li, Avnish Asthana, Ean Kramer, Johnny Bluhm, Mohammed Hejazi, and Laura Kaiser
+
+Meeting log:
+1. Decided on a project: An android application that displays recipes based on which meal the user is looking to cook.
+	- Stretch goals: health tracker, display recipes based on available ingredients, budget meals, etc.
+2. Set up Discord for communication.
+3. Set up Git Hub repositories for meeting logs, milestones, and code.
+4. Finalized Project Milestone 1.
+5. Planned for next meeting: 9/27 at 4:00 pm.
