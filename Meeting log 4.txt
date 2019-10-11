@@ -1,0 +1,14 @@
+Meeting 4:
+10/10/2019, 6:00 - 8:00
+
+Members present: Aaron Li, Ean Kramer, Johnny Bluhm, Mohammed Hejazi, Laura Kaiser
+
+Meeting log:
+1. Assigned teams for front end vs back end implementation
+	Front end: Laura Kaiser, Ean Kramer, Johnny Bluhm, Nish Asthana
+	Back end: Aaron Li, Mohammed Hejazi, Izzy Hennage
+2. Finalized Trello & sprint dates
+3. Started developing basic sketches of UI
+4. Researched more APIs and Django framework
+	- Javascript API (Spoonacular?)
+	- Allrecipes (python)

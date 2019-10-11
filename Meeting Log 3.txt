@@ -1,0 +1,9 @@
+Meeting 3:
+10/6/2019, 6:05 - 
+
+Members present: Aaron Li, Johnny Bluhm, Laura Kaiser, Avnish Asthana, and Izzy Hennage
+
+Meeting Log:
+1. Brainstormed features and wrote user stories for each feature
+2. Made progress towards Project Milestone 2
+3. Made plans to start coding this Friday (10/11).
