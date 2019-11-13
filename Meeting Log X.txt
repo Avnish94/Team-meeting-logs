@@ -1,0 +1,15 @@
+Meeting X: 
+11/12/19, 7:00pm - 
+
+Members present: Johnny Bluhm, Aaron Li, Nish, Ean Kramer, Laura Kaiser, Mohammed
+
+Meeting log:
+1. Discussed how backend will set up and connect the mongo database to NodeJS
+2. Partitioned pages to convert to pug to each member of the front end team.
+	a. Ean: Navbar & favorite recipes page
+	b. Johnny: Home page
+	c. Laura: Recipe display page
+	d. Nish: Search results & search page
+	e. Search functionality to be implemented once backend database is established.
+3. Made plans to increase documentation (comments and meeting logs)
+
