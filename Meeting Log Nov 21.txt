@@ -1,0 +1,8 @@
+11/21/19 3:30pm - 5:00pm
+
+Members present: Aaron Li, Mohammed Hejazi, Johnny Bluhm
+
+Meeting log:
+1. Backend worked on implementing NodeJS to integrate database with the pages
+2. Attempted to implement Ajax
+3. Added documentation to existing code

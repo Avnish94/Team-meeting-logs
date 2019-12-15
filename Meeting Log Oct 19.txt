@@ -1,0 +1,7 @@
+10/19/19, 2:00pm - 3:00pm
+
+Members present: Aaron Li, Izzy Hennage, Mohammed Hejazi
+
+Meeting log:
+1. Backend team discussed which database program to use
+2. Decided on an API & discussed how to implement it

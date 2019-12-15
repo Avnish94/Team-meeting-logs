@@ -1,0 +1,8 @@
+10/30/19, 4:00pm - 5:00pm
+
+Members present: Laura Kaiser, Avnish Asthana, Johnny Bluhm, Aaron Li, Ean Kramer, Mohammed 
+		 Hejazi
+
+Meeting log:
+1. Finalized Milestone 3
+2. Worked on implementing our chosen API into the system (specifically with our search feature)

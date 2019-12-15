@@ -1,0 +1,10 @@
+12/4/19, 4:30pm - 6:30pm
+
+Members present: Mohammed Hejazi, Avnish Asthana, Ean Kramer, Laura Kaiser
+
+Meeting log:
+1. Worked together on several pages of the website
+	a. Updated recipe display page to make it more appealing & easier to understand
+	b. Worked on front end to back end integration for advanced search options
+	c. Resolved an error involving the log in screen redirecting to an error page instead of 
+	   back to the home page

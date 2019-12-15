@@ -1,0 +1,10 @@
+Meeting X: 12/2/2019
+Members Present: Aaron Li, Ean Kramer, Laura Kaiser, Mohammed Hejazi, Nish Asthana
+
+Meeting log:
+1. Made plans for testing process for project milestone 5
+2. Made plans to create dedicated search page with customization options
+3. Improved formatting of recipe display page
+4. Made plans to create a functional favorites page
+5. Prepared for presentation on Thursday
+
